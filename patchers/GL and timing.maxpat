@@ -56,7 +56,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 45.0, 11.0, 60.0, 22.0 ],
+					"patching_rect" : [ 39.0, 11.0, 60.0, 22.0 ],
 					"style" : "",
 					"text" : "loadbang"
 				}
@@ -535,7 +535,7 @@
  ]
 					}
 ,
-					"patching_rect" : [ 959.0, 305.0, 55.0, 22.0 ],
+					"patching_rect" : [ 149.0, 36.0, 55.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"description" : "",
 						"digest" : "",
@@ -2840,7 +2840,7 @@
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 193.0, 483.0, 108.0, 35.0 ],
 									"style" : "",
-									"text" : "offset_y -105.79837"
+									"text" : "offset_y -122.973289"
 								}
 
 							}
